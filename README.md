@@ -1,11 +1,19 @@
 👋 Hi, I’m Reza Latifi
 
-👀 I’m a Backend Developer specializing in Django.
+👀 I'm a Django Developer specializing in building REST APIs using Python.
 
-🌱 I am currently learning and developing my expertise in designing and implementing web systems using the Python programming language.
+## 🔧 Skills
 
-💞️ I'm looking to collaborate on challenging projects that push my skills and knowledge to the next level.
+- **Backend Development**: Proficient in Django, Python, and related web technologies.
+- **RESTful APIs**: Experienced in designing and building scalable and secure RESTful APIs.
+- **Database Management**: Skilled in working with databases like PostgreSQL or MySQL.
+- **Authentication & Authorization**: Familiar with implementing authentication and authorization mechanisms such as JWT or OAuth.
+- **Testing & Debugging**: Proficient in writing unit tests and debugging techniques for efficient code.
+📫 Let's Connect
+If you have any interesting projects or collaboration opportunities, feel free to reach out to me. You can contact me via:
 
-📫 How to reach me: Please feel free to reach out to me at reza72@gmail.com.
+- Email: [reza72@gmail.com]
+  
+I'm always open to learning new things and working on exciting projects that challenge and enhance my skills as a Django developer.
 
-⚡ Fun fact: I enjoy exploring and learning new technologies, as they allow me to see things from different perspectives and continuously improve as a developer.
+Let's build amazing REST APIs together! 🚀
